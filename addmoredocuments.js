@@ -26,4 +26,4 @@ await vectorStore2.mergeFrom(vectorStore);
 const directory = "./vectorstore";
 await vectorStore.save(directory);
 
-console.log("done! :)");
+console.log("merging done! :)");
